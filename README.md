@@ -1,2 +1,0 @@
-# YOLO Explanation
-YOLO explanation
