@@ -1,2 +1,2 @@
-# yoloexplained
+# YOLO Explanation
 YOLO explanation
